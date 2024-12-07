@@ -1,0 +1,203 @@
+/*!  Douglass.cn | (c) 2011, 2021 BC network technology co., LTD | QQ: 156890583  
+*/
+/*- - - - - - - - -样式属download.html - - - - - - - -*/
+	/*游戏下载*/
+	#gameDownload{height:1172px;position:relative;max-width:2000px;margin:-39px auto 0 auto;padding-top:88px;background:url(../image/bg_down.png) no-repeat center top;}
+	#gameDownload .columnTitle{margin-bottom:95px;}
+	#gameDownload ._tip{line-height:78px;clear:both;font-size:16px;margin-left:617px;}
+	#gameDownload ._tip a{text-decoration:underline;}
+	#gameDownload ._tip a:hover{color:#ff0001;}
+
+
+
+
+	/*下载*/
+	#download{width:520px;height:145px;position:absolute;top:696px;left:50%;margin-left:-274px;padding-top:27px;padding-left:24px;background:url(../image/baibg.png) repeat left top;border-radius:6px;z-index:2000;}
+	#download:hover{box-shadow:0 0 24px rgba(0,0,0,0.42);}
+	#download ul{float:left;}
+	#download ul li{float:left;width:154px;overflow:hidden;margin-right:17px;margin-bottom:14px;border-radius:6px;}
+	#download ul li.btn_bg_black{background-color:#000000;}
+	#download ul li.btn_bg_black:hover{background:#333;}
+	#download ul li.btn_bg_red{background-color:#d51019;}
+	#download ul li.btn_bg_red:hover{background-color:#ef2932;}
+	#download ul li.btn_bg_red span{color:#fff;}
+	#download ul li.btn_bg_orange{background-color:#b37520;}
+	#download ul li.btn_bg_orange:hover{background-color:#d9912d;}
+	#download ul li.btn_bg_orange span{color:#fff;}
+	#download ul li .icon_down{float:left;margin-right:-9px;}
+	#download ul li .icon{width:48px;height:48px;margin:0 auto 11px auto;background:url(../image/icon_down.png) no-repeat left top;display:block;}
+	#download ul li:nth-of-type(1){float:left;width:154px;height:119px;text-align:center;background:url(../image/bg_btnblue.png) no-repeat left top;}
+	#download ul li:nth-of-type(1):hover{background-position:left bottom;}
+	#download ul li:nth-of-type(1) strong{line-height:22px;font-size:15px;}
+	#download ul li:nth-of-type(1) a{height:106px;padding-top:13px;padding-left:0px;}
+	#download ul li a{height:43px;text-align:center;padding-top:9px;padding-left:14px;text-decoration:none;display:block;}
+	#download ul strong{line-height:18px;font-size:16px;font-weight:normal;color:#fff;}
+	#download ul span{text-align:center;font-family:'times new roman', times, serif;color:#7b7b7b;display:block;}
+	.icon_down{width:34px;height:34px;background:url(http://103.36.167.89:8888/images/icon_link.png) no-repeat left top;display:inline-block;}
+	.icon_down.icon_down1x1{background-position:0 0;}
+	.icon_down.icon_down1x2{background-position:0 -34px;}
+	.icon_down.icon_down1x3{background-position:0 -68px;}
+	.icon_down.icon_down1x4{background-position:0 -102px;}
+/* - - - - - - - - - 样式属MPC20210808_三端互通开区站（PC站部分）  - - - - - - - - -*/
+	/*广告*/
+	#banner{width:2000px;margin:0 auto;height: 966px;position:relative;left:50%;margin-left:-1000px;}
+	.videoBanner{position:absolute;top:0px;height:966px;width:2000px;left:50%;margin-left:-1000px;z-index:500;}
+	.videoBanner video{width:100%;height:100%;display:block;}
+	/*快捷服务*/
+	#quickService{width:1340px;height:327px;position:absolute;top:622px;left:50%;margin-left:-670px;background:url(../image/bg_service.png) no-repeat left top;z-index:1500;}
+	#quickService .kefuGroup{height:24px;line-height:24px;position:absolute;font-size:14px;color:#fced00;bottom:100%;margin-bottom:10px;}
+	#quickService .kefuGroup li{float:left;margin-right:8px;}
+		/*游戏下载*/
+		#gameDown{float:left;width:450px;}
+		#gameDown h4{text-align:center;text-indent:53px;padding-top:20px;padding-bottom:18px;}
+		#gameDown ul{width:329px;margin:0 auto 0 70px;}
+		#gameDown ul li{margin-bottom:11px;}
+		#gameDown ul li a{width:329px;height:45px;line-height:45px;text-align:center;font-size:26px;color:#fff;background:url(../image/a_bg.png) no-repeat left top;display:block;}
+		#gameDown ul li a:hover{font-weight:normal;background-position:left bottom;text-decoration:none;}
+		/*移动端下载*/
+		#gameDownM{float:left;width:450px;}
+		#gameDownM .QRcode{margin-left:7px;}
+		#gameDownM h4{text-align:center;text-indent:57px;margin-bottom:23px;padding-top:22px;}
+		/*在线充值*/
+		#gamePayment{float:right;width:432px;}
+		#gamePayment h4{text-align:center;padding-top:18px;text-indent:7px;}
+		#gamePayment ._pic{width:327px;height:166px;margin:0 auto 3px auto;}
+		#gamePayment ._btn_payment{width:329px;height:45px;line-height:45px;text-align:center;font-size:25px;color:#fff;margin:0 auto;background:url(../image/a_bg.png) no-repeat left top;letter-spacing:8px;display:block;}
+		#gamePayment ._btn_payment:hover{background-position:left bottom;text-decoration:none;}
+	/*游戏简介*/
+	#gameIntr{height:824px;position:relative;margin-top:-36px;padding-top:87px;background:url(../image/bg_intr.png) no-repeat center top;z-index:1600;}
+	#gameIntr .columnTitle{margin-bottom:80px;}
+	#gameIntr .Scroll_box{width:1030px;margin:0 auto;}
+	/*装备展示*/
+	#ZhuangBei{max-width:2000px;margin:0 auto;position:relative;background:#1a1f25 url(../image/bg_liney.png) repeat-y center top;z-index:1710;min-height:678px;}
+	#ZhuangBei::after{background:url(../image/bg_line.png) no-repeat left top;width:2000px;height:678px;content:"";bottom:0px;left:0px;position:absolute;z-index:200;}
+	#ZhuangBei .center{position:relative;padding-top:115px;padding-bottom:110px;border-top:1px solid #846b4c;z-index:1000;}
+	#ZhuangBei .center::before{width:69px;height:42px;position:absolute;bottom:100%;left:50%;margin-bottom:-5px;margin-left:-34px;background:url(../image/arrow_top.png) no-repeat left top;content:"";}
+	#ZhuangBei ._arrowtop{width:69px;height:42px;position:absolute;bottom:100%; z-index: 1700; left:50%;margin-bottom:-5px;margin-left:-34px;background:url(../image/arrow_top.png) no-repeat left top;}
+	#ZhuangBei .photoList::after{clear:both;display:block;content:"";}
+	#ZhuangBei .photoList li{float:left;width:370px;height:480px;margin-right:120px;margin-bottom:41px;overflow:hidden;}
+	#ZhuangBei .photoList li:hover img{opacity:1;}
+	#ZhuangBei .photoList li img{width:100%;height:100%;display:block;opacity:0.9;transition:opacity 0.3s linear;}
+	#ZhuangBei .photoList li:nth-child(3n){margin-right:0px;}
+	/*游戏截图*/
+	#gamePicture{height:800px;position:relative;overflow:hidden;margin-top:-36px;background:url(../image/bg_gamepicture.png) no-repeat center top;z-index:1800;}
+	#gamePicture .center{padding-top:82px;}
+	#gamePictureShow{width:1350px;height:753px;position:relative;overflow:hidden;margin:0 auto;}
+	#gamePictureShow ._slider_next,#gamePictureShow ._slider_prev{width:33px;height:87.00%;position:absolute;top:0px;z-index:80;}
+	#gamePictureShow ._slider_prev span,#gamePictureShow ._slider_next span{width:33px;height:58px;position:absolute;top:50%;margin-top:-27px;background:url(../image/arrow.png) no-repeat left top;background-repeat:no-repeat;}
+	#gamePictureShow ._slider_prev{left:0px;}
+	#gamePictureShow ._slider_prev:hover{background-position:left top;}
+	#gamePictureShow ._slider_prev:hover span{background-position:left bottom;}
+	#gamePictureShow ._slider_next{right:0px;}
+	#gamePictureShow ._slider_next span{background-position:right top;}
+	#gamePictureShow ._slider_next:hover span{background-position:right bottom;}
+	/*图片轮播样式*/
+	#gamePictureShow .conbox{width:9999em;position:absolute;}
+	#gamePictureShow .conbox .Slide_{float:left;width:1350px;overflow:hidden;}
+	#gamePictureShow .conbox .Slide_ ._photo{width:1188px;height:648px;margin:0 auto;padding-top:21px;background:url(../image/bg_borxer.png) no-repeat left top;}
+	#gamePictureShow .conbox .Slide_ img{width:1148px;height:626px;margin:0 auto;display:block;}
+	#gamePictureShow .switcher{width:100%;text-align:center;position:absolute;right:0px;bottom:10px;z-index:99;}
+	#gamePictureShow .switcher a{width:19px;height:19px;line-height:0;text-align:center;overflow:hidden;font-family:arial;color:#323232;margin-right:9px;margin-left:9px;background:url(../image/icon_dot.png) no-repeat left top;cursor:pointer;display:inline-block;}
+	#gamePictureShow .switcher a.cur,#gamePictureShow .switcher a:hover{color:#fff;background:url(../image/icon_dot2.png) no-repeat left top;}
+	
+	
+	#gamePicture .photoList::after{clear:both;display:block;content:"";}
+	#gamePicture .photoList li{float:left;width:370px;height:480px;margin-right:120px;margin-bottom:41px;overflow:hidden;}
+	#gamePicture .photoList li:hover img{opacity:1;}
+	#gamePicture .photoList li img{width:100%;height:100%;display:block;opacity:0.9;transition:opacity 0.3s linear;}
+	#gamePicture .photoList li:nth-child(3n){margin-right:0px;}
+	/*页尾*/
+	#footer{line-height:33px;text-align:center;color:#c8c8c8;max-width:2000px;margin-right:auto;margin-left:auto;padding-top:12px;padding-bottom:12px;background-color:#000000;}
+	#footer p a{font-size:14px;font-family:'Times New Roman', Times, serif;color:#f7dea8;text-decoration:underline;font-weight:bold;}
+	#footer p a:hover{color:#ff0001;}
+	/*浮动条*/
+	#Floatingbar{position:fixed;top:50%;right:10px;margin-top:-140px;z-index:3000;}
+	#Floatingbar ul li{margin-bottom:8px;}
+	#Floatingbar ul li a{width:152px;height:45px;line-height:45px;text-align:center;font-size:18px;color:#fff;background:url(../image/a_bg2.png) no-repeat left top;display:block;}
+	#Floatingbar ul li a:hover{background-position:left bottom;text-decoration:none;}
+	/*栏目标题*/
+	.columnTitle{text-align:center;margin-bottom:47px;position:relative;}
+	.columnTitle ._line1{width:133px;height:22px;background:url(../image/line1.png) no-repeat left top;display:inline-block;position:absolute;top:17px;left:398px;}
+	.columnTitle ._line2{width:133px;height:22px;background:url(../image/line2.png) no-repeat left top;display:inline-block;position:absolute;right:398px;top:17px;}
+	/*列表*/
+	.list li{height:31px;font-size:15px;color:#523611;margin-bottom:18px;transition:all 0.2s ease-out;}
+	.list li a{color:#4e3516;}
+	.list li:hover{transform:translatex(5px);}
+	.list li:hover strong{background-color:#b09068;}
+	.list li em{font-size:22px;}
+	.list li strong{width:129px;height:31px;line-height:31px;text-align:center;color:#fff;margin-right:16px;background-color:#947853;border-radius:60px;display:inline-block;}
+	/*二维码*/
+	.QRcode{float:left;}
+	.QRcode li{float:left;width:197px;line-height:29px;text-align:center;font-size:16px;color:#455b70;margin-left:13px;}
+	.QRcode .RQcodePic{width:197px;height:197px;}
+	.QRcode .RQcodePic img{width:100%;height:100%;}
+/*- - - - - - - - -样式属info.html - - - - - - - -*/
+	#banner2{height:465px;background:url(../image/bg2.jpg) no-repeat center top;}
+	/*文档内容*/
+	#docContents{max-width:2000px;margin:0 auto;background-color:#ffffff;}
+	#docContents ._linebom{height:75px;position:relative;background-color:#eaeaea;border-top:1px solid #d5d4d0;display:block;}
+	#docContents ._linebom::before{width:100%;position:absolute;top:7px;right:0px;left:0px;border-top:1px solid #bfbcb3;content:"";}
+	/*文档内容*/
+	.docHeader{text-align:center;padding-top:2px;background-color:#e8e8e8;border-bottom:1px solid #cfcfcf;}
+	.docHeader ._line{height:6px;margin-bottom:21px;border-top:1px solid #b7bbac;border-bottom:1px solid #cfceca;display:block;}
+	.docHeader h2{line-height:38px;font-size:30px;color:#333333;}
+	.docHeader dl{line-height:54px;text-align:center;font-size:16px;color:#a4855d;}
+	.docHeader dl dt{display:inline;}
+	.docHeader dl dd{margin-right:27px;display:inline;}
+	/*内容*/
+	.contents{width:97.00%;line-height:35px;font-size:17px;margin:0 auto;padding-top:32px;padding-bottom:35px;}
+	.contents a{color:#f49006;text-decoration:underline;}
+	.contents a:hover{color:#ff0001;}
+	.contents ._photo{text-align:center;margin-bottom:26px;display:block;}
+	.contents h4{line-height:30px;font-size:17px;font-weight:normal;margin-bottom:65px;}
+	.contents h4 span{width:130px;text-align:center;color:#ffffff;margin-right:11px;background-color:#947853;border-radius:30px;display:inline-block;}
+/*- - - - - - - - -样式属download.html - - - - - - - -*/
+	/*游戏下载*/
+	#gameDownload{height:1172px;position:relative;max-width:2000px;margin:-39px auto 0 auto;padding-top:88px;background:url(../image/bg_down.png) no-repeat center top;}
+	#gameDownload .columnTitle{margin-bottom:95px;}
+	#gameDownload ._tip{line-height:78px;clear:both;font-size:16px;margin-left:617px;}
+	#gameDownload ._tip a{text-decoration:underline;}
+	#gameDownload ._tip a:hover{color:#ff0001;}
+
+
+
+	/*下载项*/
+
+	.downItems{padding-left:190px;position:relative;margin-bottom:42px;margin-left:43px;min-height:95px;}
+	.downItems::after{content:"";display:block;clear:both;}
+	.downItems dt{position:absolute;left:0px;top:0px;}
+	.downItems dd{}
+	.downItems dd a{width:129px;height:31px;display:inline-block;font-size:16px;background-color:#947853;text-align:center;line-height:31px;color:#fff;border-radius:30px;margin-left:48px;margin-top:22px;margin-bottom:12px;}
+	.downItems dd a:hover{background-color:#644f35;text-decoration:none;}
+	.downItems dt h3{font-size:29px;line-height:46px;}
+	.downItems dt span{line-height:18px;display:block;color:#9b7642;font-size:16px;}
+	/*下载二维码*/
+	.DownQRcode{float:left;margin-left:43px;padding-top:37px;}
+	.DownQRcode li{float:left;margin-right:82px;}
+	.DownQRcode li strong{display:block;font-size:30px;}
+	.DownQRcode li span{display:block;font-size:16px;line-height:1.27;color:#947853;}
+	.DownQRcode li ._RQcode_pic{width:176px;height:176px;margin-top:14px;}
+	.DownQRcode li ._RQcode_pic img{width:100%;height:100%;display:block;}
+	/*下载列表*/
+
+	.downloadList{float:left;margin-top:148px;margin-left:38px;}
+	.downloadList li{font-size:16px;height:30px;line-height:30px;margin-bottom:16px;}
+	.downloadList li strong{width:134px;background-color:#947853;color:#e1eded;display:inline-block;text-align:center;font-weight:normal;border-radius:50px;margin-right:19px;}
+	.downloadList li a:hover{color:#ff0001;}
+	.backtop{width:60px;background:url(../image/icon_backtop.png) no-repeat left top;height:60px;position:fixed;bottom:20px;right:20px;z-index:5000;display:none;}
+	.backtop:hover{background-position:left bottom;}
+
+/*- - - - - - - - -样式属huishou.html - - - - - - - -*/
+    /*回收*/
+    #huishou{padding-top:30px;padding-bottom:30px;}
+	#huishou .PartTitle{margin-bottom:32px;}
+	#huishou .priceTips{float:right;line-height:34px;font-size:20px;color:#000000;margin-right:8px;}
+    /*装备列表*/
+	#huishou .zhuangBeiList{float:left;width:99.99%;font-size:13px;color:#000;border-top:1px solid #333;border-left:1px solid #333;}
+	#huishou .zhuangBeiList li{height:42px;line-height:42px;vertical-align:bottom;border-bottom:1px solid #333;}
+	#huishou .zhuangBeiList li:nth-of-type(1){font-size:16px!important;background-color:#ccc8c3!important;font-weight:bold;}
+	#huishou .zhuangBeiList li:nth-of-type(1):hover{color:#000;}
+	#huishou .zhuangBeiList li span:nth-of-type(1){width:19.92%;}
+	#huishou .zhuangBeiList li span:nth-of-type(4){width:19.92%;}
+	#huishou .zhuangBeiList li span{float:left;width:14.91%;height:100%;text-align:center;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;border-right:1px solid #333}
+	#huishou .zhuangBeiList li:hover{font-size:16px;color:#ccc8c3;background-color:#000000;}
