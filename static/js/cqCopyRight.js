@@ -6,34 +6,34 @@ _sdgCopyrightHtml +=''
 
 +'<div class="SDGCOPYRIGHT-wrap20130425">' 
 +'	<div id="SDGCOPYRIGHT">'
-//Ê¢´óÓÎÏ·LOGOºÍºÏ×÷Ã½ÌåLOGO
+//ç››å¤§æ¸¸æˆLOGOå’Œåˆä½œåª’ä½“LOGO
 +'		<div class="SDGCOPYRIGHT-logo" style="width:200px;">'
-+'			<a href="#" target="_blank" title="¡¶ÓÎÏ·Ãû×Ö¡·" ><img src="images/bomlogo.png"></a>'
++'			<a href="#" target="_blank" title="ã€Šæ¸¸æˆåå­—ã€‹" ><img src="images/bomlogo.png"></a>'
 +'		</div>'
 
 
-//°æÈ¨Ö÷ÌåÐÅÏ¢
+//ç‰ˆæƒä¸»ä½“ä¿¡æ¯
 +'		<div class="SDGCOPYRIGHT-con">'
 
 
-//Ã¿¸öÏîÄ¿×é×Ô¼ºµÄ°æÈ¨ºÅ
+//æ¯ä¸ªé¡¹ç›®ç»„è‡ªå·±çš„ç‰ˆæƒå·
 +'			<p>'
-+'				<span class="SDGCOPYRIGHT-pr3">µÖÖÆ²»Á¼ÓÎÏ· ¾Ü¾øµÁ°æÓÎÏ· ×¢Òâ×ÔÎÒ±£»¤ ½÷·ÀÊÜÆ­ÉÏµ± ÊÊ¶ÈÓÎÏ·ÒæÄÔ ³ÁÃÔÓÎÏ·ÉËÉí ºÏÀí°²ÅÅÊ±¼ä ÏíÊÜ½¡¿µÉú»î</span>'
++'				<span class="SDGCOPYRIGHT-pr3">æŠµåˆ¶ä¸è‰¯æ¸¸æˆ æ‹’ç»ç›—ç‰ˆæ¸¸æˆ æ³¨æ„è‡ªæˆ‘ä¿æŠ¤ è°¨é˜²å—éª—ä¸Šå½“ é€‚åº¦æ¸¸æˆç›Šè„‘ æ²‰è¿·æ¸¸æˆä¼¤èº« åˆç†å®‰æŽ’æ—¶é—´ äº«å—å¥åº·ç”Ÿæ´»</span>'
 +'			</p>'
 
-//¹«Ë¾Í³Ò»µÄ°æÈ¨ºÅ
+//å…¬å¸ç»Ÿä¸€çš„ç‰ˆæƒå·
 +'			<p>'
-+'				<span class="SDGCOPYRIGHT-pr3">All rights reserved. ÓÎÏ·Ãû×Ö  °æÈ¨ËùÓÐ ±¾ÓÎÏ·ÓÉ¡¾ÓÎÏ·Ãû×Ö¡¿¿ª·¢ÔËÓª ÍòÔª¹ã¸æ Ç§ÈËÍ¬·þ</span>'
++'				<span class="SDGCOPYRIGHT-pr3">All rights reserved. æ¸¸æˆåå­—  ç‰ˆæƒæ‰€æœ‰ æœ¬æ¸¸æˆç”±ã€æ¸¸æˆåå­—ã€‘å¼€å‘è¿è¥ ä¸‡å…ƒå¹¿å‘Š åƒäººåŒæœ</span>'
 +'			</p>'
 +'			<p class="SDGCOPYRIGHT-sdlogo">'
-+'				<span class="SDGCOPYRIGHT-pr3">±¾ÍøÕ¾Éè¼Æ¼°ÃÀ¹¤ÓÉ<a href="http://www.8899ps.com/" target="_blank" title="8899ps¹¤×÷ÊÒ" >8899psÉè¼Æ¹¤×÷ÊÒ</a>¶À¼ÒÉè¼ÆÖÆ×÷</span>'
++'				<span class="SDGCOPYRIGHT-pr3">æœ¬ç½‘ç«™è®¾è®¡åŠç¾Žå·¥ç”±<a href="http://www.8899ps.com/" target="_blank" title="8899pså·¥ä½œå®¤" >8899psè®¾è®¡å·¥ä½œå®¤</a>ç‹¬å®¶è®¾è®¡åˆ¶ä½œ</span>'
 +'			</p>'
 +'		</div>'
-//ÓÒ²àÍøÂç¾¯²ì3¸öÍ¼±ê
+//å³ä¾§ç½‘ç»œè­¦å¯Ÿ3ä¸ªå›¾æ ‡
 +'		<div class="SDGCOPYRIGHT-priv">'
-+'			<a href="#" class="SDGCOPYRIGHT-priv1" target="_blank">ÍøÂç¾¯²ì</a>'
++'			<a href="#" class="SDGCOPYRIGHT-priv1" target="_blank">ç½‘ç»œè­¦å¯Ÿ</a>'
 +'			<span>'
-+'<a href="http://www.8899ps.com/" target="_blank" title="´«Ææ¸ß¶ËÍøÕ¾Éè¼ÆÖÆ×÷"><img src="images/8899ps.png" border=0></a>'
++'<a href="http://www.8899ps.com/" target="_blank" title="ä¼ å¥‡é«˜ç«¯ç½‘ç«™è®¾è®¡åˆ¶ä½œ"><img src="images/8899ps.png" border=0></a>'
 +'			</span>'
 +'		</div>'
 
